@@ -10,7 +10,7 @@ public class Main {
   static HashMap<Long, Long> map;
   
   // TC : O(n)
-  // SC : O(1)
+  // SC : O(n)
   
   // we can reduce count of maximum frequency element to
   // (count+1)/2 if and only if that frequency element
